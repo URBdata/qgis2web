@@ -10,4 +10,7 @@ QGIS Plugins:<br />
 <a href="https://github.com/thangqd/HCMGIS#readme">HCMGIS</a><br />
 <br />
 Map data:<br />
-<a href="https://google.com/maps">Google, ©2023</a>
+<a href="https://google.com/maps">Google, ©2023</a><br />
+<br />
+Data Collection:<br />
+<a href="https://www.urbdata.com.br/">URBdata®</a><br />
